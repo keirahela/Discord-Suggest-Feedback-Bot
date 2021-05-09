@@ -9,8 +9,8 @@ If you have any problems, dm ```keirahela#4288``` on discord.
 
 
 
-- suggest
-- feedback
+- {prefix}suggest
+- {prefix}feedback
 
 
 # How to use this
